@@ -16,12 +16,12 @@
     The part that runs the world is not finished yet, let's say it's a beta, so if you create a custom channel whatever its name, you will still send messages in the world. (/join blabla works just as well)
     
     Repository: https://github.com/iThorgrim-Hub/lua-icons-chat
-    Download: https://github.com/iThorgrim-Hub/lua-icons-chat/archive/master.zip
+    Download: https://github.com/iThorgrim-Hub/lua-icons-chat/archive/main.zip
     License: AGPL
 
 # Usage
 
-- Download the [zip file](https://github.com/iThorgrim-Hub/lua-icons-chat/archive/master.zip).
+- Download the [zip file](https://github.com/iThorgrim-Hub/lua-icons-chat/archive/main.zip).
 - Just **drop the lua-icon-chat.lua on your *lua_scripts* folder.**
 - Configure the script. **(Open with notepad & go to line 2)**.
 - Reload Eluna (.reload eluna).
